@@ -16,6 +16,14 @@ I am a passionate BSIT student at University of Cebu - Banilad, driven by a curi
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,debian,kali,ubuntu,linux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,linkedin)](https://skillicons.dev)
 
+## Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="47c1f95f-dddd-4a5d-8d54-c2287ea8b348" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0c06f64b-5822-467e-951c-239d2f88b37a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c65835b-03c7-4215-a414-66d2a587071c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8bde0f04-8bf3-450c-8d50-a0d0afc6e94a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a580a7d4-0fab-4949-9ffe-1daf1e867d22" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ab574717-5bd1-467a-8a46-a89c1e212915" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Data Analytics and Cybersecurity
@@ -32,6 +40,7 @@ I am a passionate BSIT student at University of Cebu - Banilad, driven by a curi
 
 
 ## 🏅 Certifications
+- 🎓 Certified in Cybersecurity (CC) - ISC2 
 - 🎓 Certified Associate In Scrum Fundamentals™ (CASF™) - SkillFront
 - 🎓 ISO/IEC 27001 Information Security Associate™ - SkillFront
 - 🎓 Junior Cybersecurity Analyst Career Path - Cisco Networking Academy
