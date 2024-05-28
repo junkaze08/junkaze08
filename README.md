@@ -17,12 +17,12 @@ I am a passionate BSIT student at University of Cebu - Banilad, driven by a curi
 [![My Skills](https://skillicons.dev/icons?i=git,github,linkedin)](https://skillicons.dev)
 
 ## Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="47c1f95f-dddd-4a5d-8d54-c2287ea8b348" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0c06f64b-5822-467e-951c-239d2f88b37a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c65835b-03c7-4215-a414-66d2a587071c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8bde0f04-8bf3-450c-8d50-a0d0afc6e94a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a580a7d4-0fab-4949-9ffe-1daf1e867d22" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ab574717-5bd1-467a-8a46-a89c1e212915" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![certified-in-cybersecurity-cc(1)](https://github.com/junkaze08/junkaze08/assets/80501778/cf4438fd-9849-4d41-a51a-3e624b008897)](https://www.credly.com/badges/47c1f95f-dddd-4a5d-8d54-c2287ea8b348/public_url)
+[![cyberops-associate](https://github.com/junkaze08/junkaze08/assets/80501778/2a0ece6c-b9f3-4461-a834-3346575e767a)](https://www.credly.com/badges/0c06f64b-5822-467e-951c-239d2f88b37a/public_url)
+[![junior-cybersecurity-analyst-career-path 1](https://github.com/junkaze08/junkaze08/assets/80501778/aff2508c-31bd-4381-ab0c-98eb381d556b)](https://www.credly.com/badges/7c65835b-03c7-4215-a414-66d2a587071c/public_url)
+[![ethical-hacker](https://github.com/junkaze08/junkaze08/assets/80501778/5d65a264-78b9-4206-8517-0c08c761e146)](https://www.credly.com/badges/8bde0f04-8bf3-450c-8d50-a0d0afc6e94a/public_url)
+[![cyber-threat-intelligence](https://github.com/junkaze08/junkaze08/assets/80501778/78fb6b9a-b599-42fb-8d00-7d29adbbd0ee)](https://www.credly.com/badges/ab574717-5bd1-467a-8a46-a89c1e212915/public_url)
+
 
 ## 🌱 Currently Exploring
 
