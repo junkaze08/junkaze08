@@ -1,14 +1,15 @@
 # Hi, I'm Junester! 👋
 
-I am a passionate BSIT student at University of Cebu - Banilad, driven by a curiosity for technology and a love for Gundam. My journey involves delving into the world of cybersecurity, data analytics, and sharing my insights with the community.
+I am a passionate IT person, driven by a curiosity for technology and a love for Gundam. My journey involves delving into the world of cybersecurity, data analytics, and sharing my insights with the community.
 
 ![junkaze08's Stats](https://github-readme-stats.vercel.app/api?username=junkaze08&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelors Degree in Information Technology at University of Cebu - Banilad.
+- 🔭 I am a graduate of the Bachelor's Degree in Information Technology at the University of Cebu-Banilad.
 - 📝 I participated Capture The Flag (CTF) on picoCTF website [https://picoctf.org](https://picoctf.org/).
 - 🥋 Proud member of the [Philippine Taekwondo Asssociation](https://philippinetaekwondo.org/), representing Baybay Taekwondo Team under RMC 8A.
+- 🧑‍💼 I'm the current Data Governance Officer at Gothong Southern Group of Companies.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,flask,java,anaconda,azure,firebase)](https://skillicons.dev)
@@ -40,7 +41,8 @@ I am a passionate BSIT student at University of Cebu - Banilad, driven by a curi
 
 
 ## 🏅 Certifications
-- 🎓 Certified in Cybersecurity (CC) - ISC2 
+- 🎓 Certified in Cybersecurity (CC) - ISC2
+- 🎓 Google Cybersecurity Professional - Google
 - 🎓 Certified Associate In Scrum Fundamentals™ (CASF™) - SkillFront
 - 🎓 ISO/IEC 27001 Information Security Associate™ - SkillFront
 - 🎓 Junior Cybersecurity Analyst Career Path - Cisco Networking Academy
